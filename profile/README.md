@@ -1,1 +1,1 @@
-# OpenFPGA Cores Inventory
+# openFPGA Cores Inventory
